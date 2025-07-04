@@ -3,7 +3,7 @@
 
 # DEAD SEMESTER
 
-`Early Draft, May Change`
+*`Early Draft, May Change`
 
 *`A College Zombie Survival Animated Webseries`*
 
