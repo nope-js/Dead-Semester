@@ -5,6 +5,8 @@
 
 *Duration: \~12 min*
 
+![Thumbnail](../Images/S1/S1EP2.png)
+
 > *“They told us it was routine. But routine doesn’t come with body bags.”*
 > — *Trisha Kapoor, Incident Log Draft (unsent)*
 
@@ -47,13 +49,7 @@ Lights flicker.
 
 *EXT. CAMPUS CANTEEN – MIDDAY*
 
-Buzz of activity. **Zoya** and **Aarav** sit with trays of food.
-
-Around them, chatter:
-
-> “Dude, three people puked after donating.”
-> “Flu season?”
-> “Nah, they looked… drained.”
+, they looked… drained.”
 
 **Aarav** watches the SynGenix tent in the distance.
 **Zoya**, already suspicious, mutters:

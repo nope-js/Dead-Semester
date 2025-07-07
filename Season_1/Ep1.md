@@ -2,6 +2,8 @@
 
 *Duration: \~12 min*
 
+![Thumbnail](../Images/S1/S1EP1.jpg)
+
 > *“People don’t realize something’s wrong… until it’s already been wrong for a while.”*
 > — *Riya D’Souza’s sketchbook, Day 0*
 
